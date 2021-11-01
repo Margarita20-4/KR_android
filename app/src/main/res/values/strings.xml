@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Pulse</string>
+    <string name="headline">Переутомление</string>
+    <string name="headline1">(Ортостатическая проба)</string>
+    <string name="headline3">Тест</string>
+    <string name="headline2">Для прохождения теста необходимо иметь возможность лечь на 5 минут. Время проведения теста около 10–15 минут.</string>
+    <string name="dateq">Введите дату Вашего рождения:</string>
+    <string name="yeartext">Введите год рождения:</string>
+    <string-array name="choose_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="choose_mounth">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string name="year">Год рождения</string>
+    <string name="sex">Пол:</string>
+    <string-array name="choose_sex">
+        <item>Женский</item>
+        <item>Мужской</item>
+    </string-array>
+    <string name="line1">1.Необходимо лечь и лежать 5 минут почти без движений.</string>
+    <string name="line2">2.Посчитать пульс в течение минуты</string>
+    <string name="line3">3.Введите пульс в положении лежа:</string>
+    <string name="line4">4.Встать и стоять почти без движений 5 минут.</string>
+    <string name="line5">5.Поссчитать пульс в течение минуты</string>
+    <string name="line6">6.Введите пульс в положении стоя</string>
+    <string name="line7">7.Нажмите "Ввод". Тест завершен!</string>
+    <string name="start">Ввод</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="rez1">Результаты теста</string>
+    <string name="rez2">Не забывайте о регулярном профессиональном медицинском осмотре!</string>
+    <string name="rez3">Введенные значения соответствуют отсутствию переутомления</string>
+</resources>
